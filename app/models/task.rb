@@ -3,7 +3,7 @@ class Task < ActiveRecord::Base
   validates :description
   validates :due_date
   validates :user_id
-  validates :list_id, presnce: true
+  validates :list_id, presence: true
 
 
   belongs_to :list
