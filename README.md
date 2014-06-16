@@ -1,3 +1,10 @@
+![ER Diagram](https://github.com/pdunbar/taskmastah/blob/master/ERD.jpg "ER Diagram")
+
+
+
+
+
+
 # Sinatra Active Record Starter Kit
 
 This template provides a basic [Sinatra](http://www.sinatrarb.com/) application
