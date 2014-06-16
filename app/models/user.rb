@@ -5,5 +5,6 @@ class User < ActiveRecord::Base
 
   has_many :members
   has_many :lists, through: :members
+  has_many :tasks
 end
 
